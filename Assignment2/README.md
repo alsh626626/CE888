@@ -12,4 +12,4 @@ Data used in assignment can be downloaded at: https://github.com/cardiffnlp/twee
 
 All the files have exactly the same structure except for the data used
 
-All the files contain outputs and able to be run on GooGle Colab
+All the files contain outputs and able to be run on Google Colab
