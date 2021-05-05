@@ -34,27 +34,31 @@ Completed lab quiz
 Watched pre-recorded lecture
 ***
 ## Lab_6
-Lab_6_Exercise.ipynb
+Lab_6_Exercise.ipynb (Task 1-6)
 
-Lab_6_Exercise_Task7.ipynb
+Lab_6_Exercise_Task7.ipynb (Task 7)
 ***
 ## Lab_7
-Lab_7_Exercise_1_CNN.ipynb
+Lab_7_Exercise_1_CNN.ipynb (Task 1)
 
-Lab_7_Exercise_2_DogvsCat_CNN.ipynb
+Lab_7_Exercise_2_DogvsCat_CNN.ipynb (Task 2)
 
-Lab_7_Exercise_3_RNN.ipynb
+Lab_7_Exercise_3_RNN.ipynb (Task 3)
 ***
 ## Lab_8
 Lab_8_Exercise_transfer_learning_FE.ipynb
 
 Lab_8_Exercise_transfer_learning_FT.ipynb
+
+### no attempt
 ***
 ## Lab_9
 Lab_9_Exercise_1_VAE.ipynb
 
 Lab_9_Exercise_2_GAN.ipynb
+
+### no task
 ***
 ## Lab_10
-
+### no attempt
 ***
