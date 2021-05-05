@@ -16,7 +16,7 @@ All the files contain outputs and able to be run on Google Colab
 Exercise_Lab_1.ipynb
 ***
 ## Lab_2
-Exercise_Lab_2_bootstrap.ipynb
+Exercise_Lab_2_bootstrap.ipynb\n
 Completed lab quiz
 ***
 ## Lab_3
