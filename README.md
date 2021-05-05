@@ -14,3 +14,21 @@ All the files contain outputs and able to be run on Google Colab
 ***
 ## Lab_1
 ***
+## Lab_2
+***
+## Lab_3
+***
+## Lab_4
+***
+## Lab_5
+***
+## Lab_6
+***
+## Lab_7
+***
+## Lab_8
+***
+## Lab_9
+***
+## Lab_10
+***
